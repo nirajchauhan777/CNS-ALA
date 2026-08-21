@@ -1,1 +1,1 @@
-https://niraj-ala-1-cns.netlify.app/
+https://cns-ala1-niraj.netlify.app/
